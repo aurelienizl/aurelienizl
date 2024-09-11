@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aurélien Izoulet</h1>
 <h3 align="center">Student at EPITA</h3>
 
-- 🔭 I’m currently working on [WCR for IEDOM-IEOM](https://www.iedom.fr/iedom/)
+- 🔭 I am currently working at KNDS France as a Cybersecurity apprentice, focusing on real-time critical embedded systems.
 
 - 🌱 I’m currently learning **at EPITA (Paris, France)**
 
